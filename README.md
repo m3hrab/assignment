@@ -2,7 +2,7 @@
 
 ## Problem-1
 
-###Now, write a python program that calculates the grade of students and shows the output as following format: “Hello, Student A with ID: 204001 has obtained letter_grade”
+Write a python program that calculates the grade of students and shows the output as following format: “Hello, Student A with ID: 204001 has obtained letter_grade”
 
 ## Problem-2
 
